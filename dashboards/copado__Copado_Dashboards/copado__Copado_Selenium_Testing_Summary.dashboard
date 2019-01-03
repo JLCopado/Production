@@ -176,7 +176,7 @@
             <useReportChart>true</useReportChart>
         </components>
     </rightSection>
-    <runningUser>jleblancdev@copa.do</runningUser>
+    <runningUser>jleblancmaster@copa.do</runningUser>
     <textColor>#000000</textColor>
     <title>Copado Selenium Testing Summary</title>
     <titleColor>#000000</titleColor>
